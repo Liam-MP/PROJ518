@@ -1,5 +1,5 @@
 # PROJ518
- Investigation Into Factors That Affect Wellbeing Using Machine Learning
+ Investigation Into Factors Affecting Subjective Wellbeing of the UK Population
  
 Wellbeing exists as a multifaceted term which, at its core, seeks to define elements of intrinsic value to an individual. These elements combine to paint a picture of how well an individual can function and how they feel about their day-to-day life (Michaelson, Mahony and Schifferes, 2012).
 
